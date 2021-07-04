@@ -1,24 +1,24 @@
-# ERZA
+# ZYBROX
 ### Telegram Group Manager Bot Written In Python Using Pyrogram + Telethon.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)&nbsp;
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ElricZ/Akeno)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ElricZ/Zybrox)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LICENSE](https://img.shields.io/github/license/ElricZ/AkenoBeta?style=for-the-badge&logo=appveyor)&nbsp;
-![Contributors](https://img.shields.io/github/contributors/ElricZ/ERZAROBOT?style=for-the-badge&logo=appveyor)&nbsp;
-![Repository Size](https://img.shields.io/github/repo-size/ElricZ/ERZAROBOT?style=for-the-badge&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors/ElricZ/Zybrox?style=for-the-badge&logo=appveyor)&nbsp;
+![Repository Size](https://img.shields.io/github/repo-size/ElricZ/Zybrox?style=for-the-badge&logo=appveyor)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)&nbsp;
-![Issues](https://img.shields.io/github/issues/ElricZ/ERZAROBOT?style=for-the-badge&logo=appveyor)&nbsp;
-![Forks](https://img.shields.io/github/forks/ElricZ/ERZAROBOT?style=for-the-badge&logo=appveyor)&nbsp;
-![Stars](https://img.shields.io/github/stars/ElricZ/ERZAROBOT?style=for-the-badge&logo=appveyor)
+![Issues](https://img.shields.io/github/issues/ElricZ/Zybrox?style=for-the-badge&logo=appveyor)&nbsp;
+![Forks](https://img.shields.io/github/forks/ElricZ/Zybrox?style=for-the-badge&logo=appveyor)&nbsp;
+![Stars](https://img.shields.io/github/stars/ElricZ/Zybrox?style=for-the-badge&logo=appveyor)
 
 
 
-<img src="https://telegra.ph/file/48e1e32f9de0f8a786f39.jpg" width="300" align="right">
+<img src="https://telegra.ph/file/7195b21e9bd38abdc4265.jpg" width="300" align="right">
 
 
 ## Requirements
@@ -67,18 +67,18 @@ $ python3 str_gen.py
 # Docker
 
 ```sh
-$ git clone https://github.com/ElricZ/Akeno
+$ git clone https://github.com/ElricZ/Zybrox
 
-$ cd Akeno
+$ cd Zybrox
 
 $ cp sample_config.env config.env
 ```
 Edit **config.env** with your own values
 
 ```sh
-$ sudo docker build . -t ERZAROBOT
+$ sudo docker build . -t Zybrox
 
-$ sudo docker run ERZAROBOT
+$ sudo docker run Zybrox
 ```
 
 ## Note
