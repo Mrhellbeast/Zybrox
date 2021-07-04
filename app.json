@@ -1,6 +1,6 @@
 {
-      "name": "Akenorobot",
-      "description": "Telegram group management bot.",
+      "name": "Zybrox",
+      "description": " A Powerful Telegram Group Management Bot To Help You Manage All Your Group's Easily.",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +8,7 @@
          "manager",
          "Masha"
       ],
-    "logo": "https://telegra.ph/file/199685f557f7bef272.jpg",
+    "logo": "https://telegra.ph/file/2fdfb348ad37e9c9b76d6.jpg",
    "repository": "https://github.com/ElricZ",
    "addons": [
       {
